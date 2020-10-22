@@ -1,0 +1,13 @@
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\bin\Debug\netcoreapp3.1\CSV_Parsing.exe
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\bin\Debug\netcoreapp3.1\CSV_Parsing.deps.json
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\bin\Debug\netcoreapp3.1\CSV_Parsing.runtimeconfig.json
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\bin\Debug\netcoreapp3.1\CSV_Parsing.runtimeconfig.dev.json
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\bin\Debug\netcoreapp3.1\CSV_Parsing.dll
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\bin\Debug\netcoreapp3.1\CSV_Parsing.pdb
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.csprojAssemblyReference.cache
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.AssemblyInfoInputs.cache
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.AssemblyInfo.cs
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.csproj.CoreCompileInputs.cache
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.dll
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.pdb
+C:\Users\mobyf_000\source\repos\CSV_Parsing\CSV_Parsing\obj\Debug\netcoreapp3.1\CSV_Parsing.genruntimeconfig.cache
